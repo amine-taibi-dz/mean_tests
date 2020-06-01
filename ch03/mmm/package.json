@@ -1,0 +1,12 @@
+{
+  "name": "mmm",
+  "version": "1.0.0",
+  "description": "math module... just for test!",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "ATA <ataibi@gmail.com>",
+  "license": "MIT"
+}

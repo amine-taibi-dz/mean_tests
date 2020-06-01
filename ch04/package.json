@@ -1,0 +1,15 @@
+{
+  "name": "ch04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ATA <ataibi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
