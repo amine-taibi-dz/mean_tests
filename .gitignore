@@ -24,5 +24,10 @@ ch03/xweb/node_modules
 ch04/node_modules
 ch06/node_modules
 ch08/node_modules
+ch09/node_modules
 cors-tests/node_modules
 *.zip
+restApp/node_modules
+*-lock.json
+quad.js
+trips.js
