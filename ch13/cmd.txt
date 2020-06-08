@@ -1,0 +1,3 @@
+
+npm -g root --silent
+npm install --save body-parser cookie-parser debug express morgan serve-favicon

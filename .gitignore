@@ -27,8 +27,10 @@ ch08/node_modules
 ch09/node_modules
 ch10/node_modules
 ch11/node_modules
+ch11/myweb/node_modules
 ch12/node_modules
 ch13/node_modules
+yoApp/node_modules
 cors-tests/node_modules
 *.zip
 restApp/node_modules
